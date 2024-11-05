@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/circle_drawer/circle_drawer.egg-info/PKG-INFO
+../../build/circle_drawer/circle_drawer.egg-info/SOURCES.txt
+../../build/circle_drawer/circle_drawer.egg-info/dependency_links.txt
+../../build/circle_drawer/circle_drawer.egg-info/entry_points.txt
+../../build/circle_drawer/circle_drawer.egg-info/requires.txt
+../../build/circle_drawer/circle_drawer.egg-info/top_level.txt
+../../build/circle_drawer/circle_drawer.egg-info/zip-safe
+circle_drawer/__init__.py
+circle_drawer/circle_drawer.py
+resource/circle_drawer
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

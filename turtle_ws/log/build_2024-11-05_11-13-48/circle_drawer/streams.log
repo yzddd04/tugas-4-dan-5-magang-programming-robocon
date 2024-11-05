@@ -1,0 +1,37 @@
+[0.376s] Invoking command in '/home/yazid/turtle_ws/src/circle_drawer': PYTHONPATH=/home/yazid/turtle_ws/build/circle_drawer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/circle_drawer build --build-base /home/yazid/turtle_ws/build/circle_drawer/build install --record /home/yazid/turtle_ws/build/circle_drawer/install.log --single-version-externally-managed install_data
+[0.525s] running egg_info
+[0.525s] creating ../../build/circle_drawer/circle_drawer.egg-info
+[0.525s] writing ../../build/circle_drawer/circle_drawer.egg-info/PKG-INFO
+[0.525s] writing dependency_links to ../../build/circle_drawer/circle_drawer.egg-info/dependency_links.txt
+[0.525s] writing entry points to ../../build/circle_drawer/circle_drawer.egg-info/entry_points.txt
+[0.525s] writing requirements to ../../build/circle_drawer/circle_drawer.egg-info/requires.txt
+[0.525s] writing top-level names to ../../build/circle_drawer/circle_drawer.egg-info/top_level.txt
+[0.525s] writing manifest file '../../build/circle_drawer/circle_drawer.egg-info/SOURCES.txt'
+[0.526s] reading manifest file '../../build/circle_drawer/circle_drawer.egg-info/SOURCES.txt'
+[0.527s] writing manifest file '../../build/circle_drawer/circle_drawer.egg-info/SOURCES.txt'
+[0.527s] running build
+[0.527s] running build_py
+[0.527s] creating /home/yazid/turtle_ws/build/circle_drawer/build
+[0.527s] creating /home/yazid/turtle_ws/build/circle_drawer/build/lib
+[0.527s] creating /home/yazid/turtle_ws/build/circle_drawer/build/lib/circle_drawer
+[0.527s] copying circle_drawer/circle_drawer.py -> /home/yazid/turtle_ws/build/circle_drawer/build/lib/circle_drawer
+[0.528s] copying circle_drawer/__init__.py -> /home/yazid/turtle_ws/build/circle_drawer/build/lib/circle_drawer
+[0.528s] running install
+[0.528s] running install_lib
+[0.528s] creating /home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages/circle_drawer
+[0.528s] copying /home/yazid/turtle_ws/build/circle_drawer/build/lib/circle_drawer/circle_drawer.py -> /home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages/circle_drawer
+[0.528s] copying /home/yazid/turtle_ws/build/circle_drawer/build/lib/circle_drawer/__init__.py -> /home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages/circle_drawer
+[0.529s] byte-compiling /home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages/circle_drawer/circle_drawer.py to circle_drawer.cpython-310.pyc
+[0.529s] byte-compiling /home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages/circle_drawer/__init__.py to __init__.cpython-310.pyc
+[0.529s] running install_data
+[0.529s] creating /home/yazid/turtle_ws/install/circle_drawer/share/ament_index
+[0.530s] creating /home/yazid/turtle_ws/install/circle_drawer/share/ament_index/resource_index
+[0.530s] creating /home/yazid/turtle_ws/install/circle_drawer/share/ament_index/resource_index/packages
+[0.530s] copying resource/circle_drawer -> /home/yazid/turtle_ws/install/circle_drawer/share/ament_index/resource_index/packages
+[0.530s] copying package.xml -> /home/yazid/turtle_ws/install/circle_drawer/share/circle_drawer
+[0.530s] running install_egg_info
+[0.531s] Copying ../../build/circle_drawer/circle_drawer.egg-info to /home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages/circle_drawer-0.0.0-py3.10.egg-info
+[0.532s] running install_scripts
+[0.544s] Installing circle_drawer script to /home/yazid/turtle_ws/install/circle_drawer/lib/circle_drawer
+[0.545s] writing list of installed files to '/home/yazid/turtle_ws/build/circle_drawer/install.log'
+[0.559s] Invoked command in '/home/yazid/turtle_ws/src/circle_drawer' returned '0': PYTHONPATH=/home/yazid/turtle_ws/build/circle_drawer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/circle_drawer build --build-base /home/yazid/turtle_ws/build/circle_drawer/build install --record /home/yazid/turtle_ws/build/circle_drawer/install.log --single-version-externally-managed install_data

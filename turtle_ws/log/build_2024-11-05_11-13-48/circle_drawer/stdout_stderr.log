@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/circle_drawer/circle_drawer.egg-info
+writing ../../build/circle_drawer/circle_drawer.egg-info/PKG-INFO
+writing dependency_links to ../../build/circle_drawer/circle_drawer.egg-info/dependency_links.txt
+writing entry points to ../../build/circle_drawer/circle_drawer.egg-info/entry_points.txt
+writing requirements to ../../build/circle_drawer/circle_drawer.egg-info/requires.txt
+writing top-level names to ../../build/circle_drawer/circle_drawer.egg-info/top_level.txt
+writing manifest file '../../build/circle_drawer/circle_drawer.egg-info/SOURCES.txt'
+reading manifest file '../../build/circle_drawer/circle_drawer.egg-info/SOURCES.txt'
+writing manifest file '../../build/circle_drawer/circle_drawer.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yazid/turtle_ws/build/circle_drawer/build
+creating /home/yazid/turtle_ws/build/circle_drawer/build/lib
+creating /home/yazid/turtle_ws/build/circle_drawer/build/lib/circle_drawer
+copying circle_drawer/circle_drawer.py -> /home/yazid/turtle_ws/build/circle_drawer/build/lib/circle_drawer
+copying circle_drawer/__init__.py -> /home/yazid/turtle_ws/build/circle_drawer/build/lib/circle_drawer
+running install
+running install_lib
+creating /home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages/circle_drawer
+copying /home/yazid/turtle_ws/build/circle_drawer/build/lib/circle_drawer/circle_drawer.py -> /home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages/circle_drawer
+copying /home/yazid/turtle_ws/build/circle_drawer/build/lib/circle_drawer/__init__.py -> /home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages/circle_drawer
+byte-compiling /home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages/circle_drawer/circle_drawer.py to circle_drawer.cpython-310.pyc
+byte-compiling /home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages/circle_drawer/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/yazid/turtle_ws/install/circle_drawer/share/ament_index
+creating /home/yazid/turtle_ws/install/circle_drawer/share/ament_index/resource_index
+creating /home/yazid/turtle_ws/install/circle_drawer/share/ament_index/resource_index/packages
+copying resource/circle_drawer -> /home/yazid/turtle_ws/install/circle_drawer/share/ament_index/resource_index/packages
+copying package.xml -> /home/yazid/turtle_ws/install/circle_drawer/share/circle_drawer
+running install_egg_info
+Copying ../../build/circle_drawer/circle_drawer.egg-info to /home/yazid/turtle_ws/install/circle_drawer/lib/python3.10/site-packages/circle_drawer-0.0.0-py3.10.egg-info
+running install_scripts
+Installing circle_drawer script to /home/yazid/turtle_ws/install/circle_drawer/lib/circle_drawer
+writing list of installed files to '/home/yazid/turtle_ws/build/circle_drawer/install.log'
